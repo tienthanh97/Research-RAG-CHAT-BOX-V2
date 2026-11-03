@@ -1,0 +1,50 @@
+[
+    {
+        "id": 2,
+        "name": "Tin công ty",
+        "slug": "tin-cong-ty",
+        "description": null,
+        "order": 2,
+        "isActive": true,
+        "seoTitle": null,
+        "seoDescription": null,
+        "createdAt": "2026-01-01T02:26:56.221Z",
+        "updatedAt": "2026-01-01T02:26:56.221Z"
+    },
+    {
+        "id": 4,
+        "name": "Dự án đang thực hiện",
+        "slug": "du-an-dang-thuc-hien",
+        "description": "Dự án đang thực hiện",
+        "order": 3,
+        "isActive": true,
+        "seoTitle": null,
+        "seoDescription": null,
+        "createdAt": "2026-01-03T03:55:47.329Z",
+        "updatedAt": "2026-01-03T03:55:55.741Z"
+    },
+    {
+        "id": 1,
+        "name": "Xu hướng thiết kế",
+        "slug": "xu-huong-thiet-ke",
+        "description": null,
+        "order": 4,
+        "isActive": true,
+        "seoTitle": null,
+        "seoDescription": null,
+        "createdAt": "2026-01-01T02:26:55.286Z",
+        "updatedAt": "2026-01-03T03:55:55.161Z"
+    },
+    {
+        "id": 3,
+        "name": "Dự án hoàn thành",
+        "slug": "du-an-hoan-thanh",
+        "description": null,
+        "order": 30,
+        "isActive": true,
+        "seoTitle": null,
+        "seoDescription": null,
+        "createdAt": "2026-01-01T02:26:56.816Z",
+        "updatedAt": "2026-01-13T07:39:04.798Z"
+    }
+]

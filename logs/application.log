@@ -1,0 +1,313 @@
+[2026-10-19 07:54:16] ERROR - ingestion - File data\raw\database_export_2026-01-23T02-02-46 does not exist.
+[2026-10-19 07:55:03] INFO - ingestion - Loaded 3 records from data\raw\database_export_2026-01-23T02-02-46.json.
+[2026-10-19 07:55:03] WARNING - ingestion - No data found for table settings. Skipping.
+[2026-10-19 07:55:03] INFO - ingestion - Saved 1 records to data\processed\companyInfo.json.
+[2026-10-19 07:55:03] INFO - ingestion - Saved 10 records to data\processed\heroSlides.json.
+[2026-10-19 07:55:03] INFO - ingestion - Saved 10 records to data\processed\interiorStyles.json.
+[2026-10-19 07:55:03] INFO - ingestion - Saved 15 records to data\processed\architectureTypes.json.
+[2026-10-19 07:55:03] INFO - ingestion - Saved 12 records to data\processed\projectCategories.json.
+[2026-10-19 07:55:03] INFO - ingestion - Saved 49 records to data\processed\projects.json.
+[2026-10-19 07:55:03] INFO - ingestion - Saved 4 records to data\processed\newsCategories.json.
+[2026-10-19 07:55:03] INFO - ingestion - Saved 17 records to data\processed\news.json.
+[2026-10-19 07:55:03] WARNING - ingestion - No data found for table users. Skipping.
+[2026-10-22 08:07:33] INFO - ingestion - Loaded 15 records from data\processed\architectureTypes.json.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 10 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 11 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 12 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 13 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 14 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - No valid chunks created from data\processed\architectureTypes.json.
+[2026-10-22 08:07:33] INFO - ingestion - Loaded 1 records from data\processed\companyInfo.json.
+[2026-10-22 08:07:33] INFO - ingestion - Loaded 10 records from data\processed\heroSlides.json.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 5 has no valid 'title'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 7 has no valid 'title'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 8 has no valid 'title'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 9 has no valid 'title'. Skipping.
+[2026-10-22 08:07:33] INFO - ingestion - Loaded 10 records from data\processed\interiorStyles.json.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - No valid chunks created from data\processed\interiorStyles.json.
+[2026-10-22 08:07:33] INFO - ingestion - Loaded 4 records from data\processed\newsCategories.json.
+[2026-10-22 08:07:33] INFO - ingestion - Loaded 17 records from data\processed\news.json.
+[2026-10-22 08:07:33] INFO - ingestion - Loaded 12 records from data\processed\projectCategories.json.
+[2026-10-22 08:07:33] INFO - ingestion - Loaded 49 records from data\processed\projects.json.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 0 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 1 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 2 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 3 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 4 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 5 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:07:33] WARNING - ingestion - Record at index 6 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:07:33] INFO - ingestion - Total chunks created: 82
+[2026-10-22 08:07:33] INFO - vector_database - Connecting to Qdrant via URL
+[2026-10-22 08:07:33] INFO - vector_database - Successfully connected to Qdrant
+[2026-10-22 08:17:07] INFO - ingestion - Loaded 15 records from data\processed\architectureTypes.json.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 10 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 11 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 12 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 13 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 14 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - No valid chunks created from data\processed\architectureTypes.json.
+[2026-10-22 08:17:07] INFO - ingestion - Loaded 1 records from data\processed\companyInfo.json.
+[2026-10-22 08:17:07] INFO - ingestion - Loaded 10 records from data\processed\heroSlides.json.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 5 has no valid 'title'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 7 has no valid 'title'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 8 has no valid 'title'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 9 has no valid 'title'. Skipping.
+[2026-10-22 08:17:07] INFO - ingestion - Loaded 10 records from data\processed\interiorStyles.json.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - No valid chunks created from data\processed\interiorStyles.json.
+[2026-10-22 08:17:07] INFO - ingestion - Loaded 4 records from data\processed\newsCategories.json.
+[2026-10-22 08:17:07] INFO - ingestion - Loaded 17 records from data\processed\news.json.
+[2026-10-22 08:17:07] INFO - ingestion - Loaded 12 records from data\processed\projectCategories.json.
+[2026-10-22 08:17:07] INFO - ingestion - Loaded 49 records from data\processed\projects.json.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 0 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 1 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 2 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 3 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 4 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 5 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:17:07] WARNING - ingestion - Record at index 6 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:17:07] INFO - ingestion - Total chunks created: 82
+[2026-10-22 08:17:07] INFO - vector_database - Connecting to Qdrant via URL
+[2026-10-22 08:17:07] INFO - vector_database - Successfully connected to Qdrant
+[2026-10-22 08:18:46] INFO - ingestion - Loaded 15 records from data\processed\architectureTypes.json.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 10 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 11 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 12 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 13 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 14 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - No valid chunks created from data\processed\architectureTypes.json.
+[2026-10-22 08:18:46] INFO - ingestion - Loaded 1 records from data\processed\companyInfo.json.
+[2026-10-22 08:18:46] INFO - ingestion - Loaded 10 records from data\processed\heroSlides.json.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 5 has no valid 'title'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 7 has no valid 'title'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 8 has no valid 'title'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 9 has no valid 'title'. Skipping.
+[2026-10-22 08:18:46] INFO - ingestion - Loaded 10 records from data\processed\interiorStyles.json.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - No valid chunks created from data\processed\interiorStyles.json.
+[2026-10-22 08:18:46] INFO - ingestion - Loaded 4 records from data\processed\newsCategories.json.
+[2026-10-22 08:18:46] INFO - ingestion - Loaded 17 records from data\processed\news.json.
+[2026-10-22 08:18:46] INFO - ingestion - Loaded 12 records from data\processed\projectCategories.json.
+[2026-10-22 08:18:46] INFO - ingestion - Loaded 49 records from data\processed\projects.json.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 0 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 1 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 2 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 3 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 4 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 5 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:18:46] WARNING - ingestion - Record at index 6 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:18:46] INFO - ingestion - Total chunks created: 82
+[2026-10-22 08:18:46] INFO - vector_database - Connecting to Qdrant via URL
+[2026-10-22 08:18:46] INFO - vector_database - Successfully connected to Qdrant
+[2026-10-22 08:19:58] INFO - ingestion - Loaded 15 records from data\processed\architectureTypes.json.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 10 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 11 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 12 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 13 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 14 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - No valid chunks created from data\processed\architectureTypes.json.
+[2026-10-22 08:19:58] INFO - ingestion - Loaded 1 records from data\processed\companyInfo.json.
+[2026-10-22 08:19:58] INFO - ingestion - Loaded 10 records from data\processed\heroSlides.json.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 5 has no valid 'title'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 7 has no valid 'title'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 8 has no valid 'title'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 9 has no valid 'title'. Skipping.
+[2026-10-22 08:19:58] INFO - ingestion - Loaded 10 records from data\processed\interiorStyles.json.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - No valid chunks created from data\processed\interiorStyles.json.
+[2026-10-22 08:19:58] INFO - ingestion - Loaded 4 records from data\processed\newsCategories.json.
+[2026-10-22 08:19:58] INFO - ingestion - Loaded 17 records from data\processed\news.json.
+[2026-10-22 08:19:58] INFO - ingestion - Loaded 12 records from data\processed\projectCategories.json.
+[2026-10-22 08:19:58] INFO - ingestion - Loaded 49 records from data\processed\projects.json.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 0 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 1 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 2 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 3 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 4 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 5 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:19:58] WARNING - ingestion - Record at index 6 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:19:58] INFO - ingestion - Total chunks created: 82
+[2026-10-22 08:19:58] INFO - vector_database - Connecting to Qdrant via URL
+[2026-10-22 08:19:58] INFO - vector_database - Successfully connected to Qdrant
+[2026-10-22 08:23:10] INFO - ingestion - Loaded 15 records from data\processed\architectureTypes.json.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 10 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 11 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 12 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 13 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 14 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - No valid chunks created from data\processed\architectureTypes.json.
+[2026-10-22 08:23:10] INFO - ingestion - Loaded 1 records from data\processed\companyInfo.json.
+[2026-10-22 08:23:10] INFO - ingestion - Loaded 10 records from data\processed\heroSlides.json.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 5 has no valid 'title'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 7 has no valid 'title'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 8 has no valid 'title'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 9 has no valid 'title'. Skipping.
+[2026-10-22 08:23:10] INFO - ingestion - Loaded 10 records from data\processed\interiorStyles.json.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - No valid chunks created from data\processed\interiorStyles.json.
+[2026-10-22 08:23:10] INFO - ingestion - Loaded 4 records from data\processed\newsCategories.json.
+[2026-10-22 08:23:10] INFO - ingestion - Loaded 17 records from data\processed\news.json.
+[2026-10-22 08:23:10] INFO - ingestion - Loaded 12 records from data\processed\projectCategories.json.
+[2026-10-22 08:23:10] INFO - ingestion - Loaded 49 records from data\processed\projects.json.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 0 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 1 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 2 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 3 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 4 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 5 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:23:10] WARNING - ingestion - Record at index 6 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:23:10] INFO - ingestion - Total chunks created: 82
+[2026-10-22 08:23:10] INFO - vector_database - Connecting to Qdrant via URL
+[2026-10-22 08:23:10] INFO - vector_database - Successfully connected to Qdrant
+[2026-10-22 08:24:03] INFO - ingestion - Loaded 15 records from data\processed\architectureTypes.json.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 10 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 11 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 12 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 13 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 14 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - No valid chunks created from data\processed\architectureTypes.json.
+[2026-10-22 08:24:03] INFO - ingestion - Loaded 1 records from data\processed\companyInfo.json.
+[2026-10-22 08:24:03] INFO - ingestion - Loaded 10 records from data\processed\heroSlides.json.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 5 has no valid 'title'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 7 has no valid 'title'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 8 has no valid 'title'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 9 has no valid 'title'. Skipping.
+[2026-10-22 08:24:03] INFO - ingestion - Loaded 10 records from data\processed\interiorStyles.json.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 0 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 1 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 2 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 3 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 4 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 5 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 6 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 7 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 8 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 9 has no valid 'image'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - No valid chunks created from data\processed\interiorStyles.json.
+[2026-10-22 08:24:03] INFO - ingestion - Loaded 4 records from data\processed\newsCategories.json.
+[2026-10-22 08:24:03] INFO - ingestion - Loaded 17 records from data\processed\news.json.
+[2026-10-22 08:24:03] INFO - ingestion - Loaded 12 records from data\processed\projectCategories.json.
+[2026-10-22 08:24:03] INFO - ingestion - Loaded 49 records from data\processed\projects.json.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 0 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 1 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 2 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 3 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 4 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 5 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:24:03] WARNING - ingestion - Record at index 6 has no valid 'architectureType'. Skipping.
+[2026-10-22 08:24:03] INFO - ingestion - Total chunks created: 82
+[2026-10-22 08:24:03] INFO - vector_database - Connecting to Qdrant via URL
+[2026-10-22 08:24:03] INFO - vector_database - Successfully connected to Qdrant
+[2026-10-22 08:24:03] INFO - vector_database - Creating collection 'nmk_chatbot_collection'...
+[2026-10-22 08:24:03] INFO - vector_database - Collection 'nmk_chatbot_collection' created successfully.
+[2026-10-22 08:24:03] INFO - embedding - Loading embedding model intfloat/multilingual-e5-small.
+[2026-10-22 08:24:36] INFO - embedding - Completed embedding 82 texts.
+[2026-10-22 08:24:36] INFO - vector_database - Built 82 Qdrant points.
+[2026-10-22 08:24:36] INFO - vector_database - Upserted 82 points into collection 'nmk_chatbot_collection'.
+[2026-10-22 08:24:36] INFO - ingestion - A;; chunks have been uploaded to the vector store.

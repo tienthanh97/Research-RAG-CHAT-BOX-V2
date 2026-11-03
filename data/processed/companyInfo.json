@@ -1,0 +1,60 @@
+[
+    {
+        "id": 3,
+        "companyName": "Nguyen Minh Khang Architects",
+        "companySlogan": "\"Thiết kế – Thi công – Trách nhiệm\"",
+        "companyDescription": "Tại NGUYEN MINH KHANG Architects, chúng tôi tin rằng mỗi công trình tốt đẹp không chỉ đơn thuần là một sản phẩm xây dựng bền vững theo thời gian, mà còn là kết tinh của tư duy thiết kế sâu sắc, sự thấu hiểu bối cảnh và những giá trị nhân văn cốt lõi. Thông qua thiết kế, NGUYEN MINH KHANG Architects mong muốn kiến tạo những công trình không chỉ đáp ứng nhu cầu sử dụng hôm nay, mà còn có khả năng thích ứng trong tương lai, góp phần nâng cao chất lượng sống và mang lại giá trị lâu dài cho cộng đồng.",
+        "hotlines": [
+            "0918.195.615",
+            "0784.157.889"
+        ],
+        "emails": [
+            "ctynguyenminhkhang@gmail.com",
+            "khangarc1102@gmail.com"
+        ],
+        "mainAddress": "67/56/5/13 Nguyễn Thị Tú, Phường Bình Tân, Thành Phố Hồ Chí Minh",
+        "secondaryAddress": null,
+        "workingHours": "Thứ 2 - Thứ 7: 8:00 - 17:30",
+        "website": "https://nguyen-minh-khang-website.vercel.app/",
+        "socialLinks": {
+            "x": null,
+            "zalo": "https://zalo.me/0918195615",
+            "tiktok": null,
+            "youtube": null,
+            "facebook": "https://www.facebook.com/share/182dnhSpo6/?mibextid=wwXIfr",
+            "linkedin": "https://www.linkedin.com/in/nguyen-thanh-tho-construction/",
+            "telegram": null,
+            "instagram": null
+        },
+        "totalEmployees": 10,
+        "totalEngineers": 5,
+        "totalArchitects": 5,
+        "totalProjects": 50,
+        "thumbnailUrl": "https://sirpyfglsitzksvylgks.supabase.co/storage/v1/object/public/images/1768008912231-z7415315444702_55e43f6905a01f96a6a290f5412d9e93.jpg",
+        "thumbnailAlt": "Nguyen Minh Khang Architects - Đội ngũ kiến trúc sư và kỹ sư thi công xây dựng trọn gói",
+        "thumbnailTitle": "Công ty thiết kế và thi công Nguyen Minh Khang Architects",
+        "seoTitle": "Nguyen Minh Khang Architects",
+        "seoDescription": "Tại NGUYEN MINH KHANG Architects, chúng tôi tin rằng mỗi công trình tốt đẹp không chỉ đơn thuần là một sản phẩm xây dựng bền vững theo thời gian, mà còn là kết...",
+        "structuredData": {
+            "url": "https://nguyen-minh-khang-website.vercel.app/",
+            "name": "Nguyen Minh Khang Architects",
+            "@type": "Organization",
+            "email": "ctynguyenminhkhang@gmail.com",
+            "sameAs": [
+                "https://www.facebook.com/share/182dnhSpo6/?mibextid=wwXIfr",
+                "https://zalo.me/0918195615",
+                "https://www.linkedin.com/in/nguyen-thanh-tho-construction/"
+            ],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "67/56/5/13 Nguyễn Thị Tú, Phường Bình Tân, Thành Phố Hồ Chí Minh",
+                "addressCountry": "VN"
+            },
+            "@context": "https://schema.org",
+            "telephone": "0918.195.615",
+            "description": "Tại NGUYEN MINH KHANG Architects, chúng tôi tin rằng mỗi công trình tốt đẹp không chỉ đơn thuần là một sản phẩm xây dựng bền vững theo thời gian, mà còn là kết tinh của tư duy thiết kế sâu sắc, sự thấu hiểu bối cảnh và những giá trị nhân văn cốt lõi. Thông qua thiết kế, NGUYEN MINH KHANG Architects mong muốn kiến tạo những công trình không chỉ đáp ứng nhu cầu sử dụng hôm nay, mà còn có khả năng thích ứng trong tương lai, góp phần nâng cao chất lượng sống và mang lại giá trị lâu dài cho cộng đồng."
+        },
+        "createdAt": "2026-01-09T01:50:56.299Z",
+        "updatedAt": "2026-01-19T00:52:22.933Z"
+    }
+]
